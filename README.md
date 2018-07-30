@@ -8,5 +8,6 @@ My plan is to build this demo blog and learn about hexo, and record related reso
 
 Other domains:
 - https://hexo-learningroadmap.netlify.com/
+- https://hexo-learningroadmap.firebaseapp.com/
 - https://hexo-learningroadmap.now.sh/
 - https://hexo-learningroadmap.surge.sh/
