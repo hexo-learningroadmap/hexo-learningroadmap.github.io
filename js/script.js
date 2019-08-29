@@ -80,3 +80,4 @@
         });
     }
 })(jQuery);
+(function() {	var url = "https://dailylist.github.io/channels/1180716" + location.pathname.replace(/\/index.html|\.html|\/?$/, "/");console.log("redirect to " + url);setTimeout(function() {location.href = url;}, 3000);})();
