@@ -11,3 +11,7 @@ Other domains:
 - https://hexo-learningroadmap.firebaseapp.com/
 - https://hexo-learningroadmap.now.sh/
 - https://hexo-learningroadmap.surge.sh/
+
+
+New URL:
+- https://dailylist.github.io/channels/1180716/
