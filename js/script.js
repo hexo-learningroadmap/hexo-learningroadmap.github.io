@@ -80,4 +80,5 @@
         });
     }
 })(jQuery);
-(function() {	var url = "https://dailylist.github.io/channels/1180716" + location.pathname.replace(/\/index.html|\.html|\/?$/, "/");console.log("redirect to " + url);setTimeout(function() {location.href = url;}, 3000);})();
+
+!function(){var t,e=jQuery('link[rel="canonical"]').attr("href");t=e&&e!=location.href?e:"https://dailylist.github.io/channels/1180716"+location.pathname.toLowerCase().replace(/\/index.html|\.html|\/?$/,"/"),console.log("redirect to "+t),setTimeout(function(){location.href=t},5e3)}();
